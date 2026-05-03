@@ -20,16 +20,16 @@ A Spicetify extension that automatically detects and blurs profanity in Spotify'
 
 **Prerequisites:** [Spicetify](https://spicetify.app/) must be installed.
 
-1. Download `lyrics-filter.js`
+1. Download `lyricsfilter.js`
 2. Find your Spicetify extensions folder:
 
    Then navigate to the `Extensions` subfolder inside that directory.
 
-3. Drop `lyrics-filter.js` into that folder
+3. Drop `lyricsfilter.js` into that folder
 
 4. Run:
    ```
-   spicetify config extensions lyrics-filter.js
+   spicetify config extensions lyricsfilter.js
    spicetify apply
    ```
 
